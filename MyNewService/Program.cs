@@ -13,12 +13,8 @@ namespace MyNewService
         /// </summary>
         static void Main()
         {
-            ServiceBase[] ServicesToRun;
-            ServicesToRun = new ServiceBase[] 
-			{ 
-				new Service1() 
-			};
-            ServiceBase.Run(ServicesToRun);
+            Console.WriteLine("NEw setup project _1`");
+            Console.Write("Please enter...");
         }
     }
 }
