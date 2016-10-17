@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<cubes>
-  <items>
-    <item text="Misc." value="Misc." >
-      <subitem text="Marketing Message" image="~/Images/Plus.gif"  value="Marketing Message"></subitem>
-    </item>
-  </items>
-</cubes>

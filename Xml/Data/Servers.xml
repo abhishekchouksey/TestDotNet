@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Servers>
-	<Server type="Web" name="Tweety" uid="SelectQu\kkazantsev" pwd="Ug8pO849hphmNtU1pfns0jSFy1a+IMaerKJRJTzXhlKS5rp4UacRik0bTn1qEPsn" secure="true" encrypted="true"></Server>
-	<Server type="App" name="Sylvester" uid="SelectQu\kkazantsev" pwd="Ug8pO849hphmNtU1pfns0jSFy1a+IMaerKJRJTzXhlKS5rp4UacRik0bTn1qEPsn" secure="true" encrypted="true"></Server>
-	<Server type="Db" name="PorkyPig" uid="SelectQu\kkazantsev" pwd="Ug8pO849hphmNtU1pfns0jSFy1a+IMaerKJRJTzXhlKS5rp4UacRik0bTn1qEPsn" secure="true" encrypted="true"></Server>
-	<Server type="App" name="Bugsbunny" uid="SelectQu\dqProcess" pwd="SHUVFOEYyYOtkrqqiCzvcZ6VGDmbdPlot7pPKsUDIKoz+FMSRzSnSq2xlw2aWkEZ" secure="true" encrypted="true"></Server>
-	<Server type="Dev" name="KostaDesk" uid="" pwd="" secure="false" encrypted="false"></Server>
-
-</Servers>
