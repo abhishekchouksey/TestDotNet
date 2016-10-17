@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<emailtemplates>
+  <template id="1"  name="SelectQu">
+    <to>Kosta.Kazantsev@theDataCube.com</to>
+    <subject>Installation Request - {{ mappeddealerid }}:{{ dealername }}</subject>
+    <body>
+Intergrator: DataCube
+CompanyContact: DataCube
+DataTransferType: Download
+DMSType: {{ dealerdms }}
+DealerNumber: 
+SubVendorNum: {{ dealernumber }}
+DealerName: {{ dealername }}
+DealerContact: {{ dealercontactfirstname }} {{ dealercontactlastname }}
+DealerEMail: {{ dealeremail }}
+DealerPhone: {{ dealercontactphone }}
+DealerFax: {{ dealercontactfax }}
+DealerLogin: {{ dmsusername }}
+DealerPassword: {{ dmspassword }}
+DealerStreet: {{ dealerstreet1 }}
+DealerCity: {{ dealercity }}
+DealerState: {{ dealerstate }}
+DealerZip: {{ dealerzip }}
+DealerDialUp1: {{ dealermodem }}
+DealerDialUp2: {{ alternatemodem }}
+DMSIP: {{ dmsip }}
+DMSPort: {{ dmsport }}
+PCLoginName: {{ pcusername }}
+PCPass: {{ pcpassword }}
+
+AdditionalInformation:
+DMS Account Codes: {{ storenumber }}
+Installed Computer Location: {{ computerlocation }}
+Installed PC Name: {{ pcname }}
+Comments: {{ comments }}
+    </body>
+  </template>
+	<template id="2"  name="SelectQu Mapping Confirmation">
+		<to>Kosta.Kazantsev@theDataCube.com</to>
+		<subject>RE: datcube_install:{0} {1}</subject>
+		<body>
+DealerNumber:SQ {0}
+DealerNumber:DC {1}
+DealerName:     {2}
+		</body>
+	</template>
+</emailtemplates>

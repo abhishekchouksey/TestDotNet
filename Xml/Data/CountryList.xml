@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <!--<country abbr="AC" text="Ascension Island" />
+  <country abbr="AD" text="Andorra" />
+  <country abbr="AE" text="United Arab Emirates" />
+  <country abbr="AF" text="Afghanistan" />
+  <country abbr="AG" text="Antigua and Barbuda" />
+  <country abbr="AI" text="Anguilla" />
+  <country abbr="AL" text="Albania" />
+  <country abbr="AM" text="Armenia" />
+  <country abbr="AN" text="Netherlands Antilles" />
+  <country abbr="AO" text="Angola" />
+  <country abbr="AQ" text="Antarctica" />
+  <country abbr="AR" text="Argentina" />
+  <country abbr="AS" text="American Samoa" />
+  <country abbr="AT" text="Austria" />
+  <country abbr="AU" text="Australia" />
+  <country abbr="AW" text="Aruba" />
+  <country abbr="AX" text="Aland Islands" />
+  <country abbr="AZ" text="Azerbaijan" />
+  <country abbr="BA" text="Bosnia and Herzegovina" />
+  <country abbr="BB" text="Barbados" />
+  <country abbr="BD" text="Bangladesh" />
+  <country abbr="BE" text="Belgium" />
+  <country abbr="BF" text="Burkina Faso" />
+  <country abbr="BG" text="Bulgaria" />
+  <country abbr="BH" text="Bahrain" />
+  <country abbr="BI" text="Burundi" />
+  <country abbr="BJ" text="Benin" />
+  <country abbr="BM" text="Bermuda" />
+  <country abbr="BN" text="Brunei Darussalam" />
+  <country abbr="BO" text="Bolivia" />
+  <country abbr="BR" text="Brazil" />
+  <country abbr="BS" text="Bahamas" />
+  <country abbr="BT" text="Bhutan" />
+  <country abbr="BV" text="Bouvet Island" />
+  <country abbr="BW " text="Botswana" />
+  <country abbr="BY" text="Belarus" />
+  <country abbr="BZ" text="Belize" />-->
+  <country abbr="CA" text="Canada" />
+  <!--<country abbr="CC" text="Cocos (Keeling) Islands" />
+  <country abbr="CD" text="Congo, Democratic Republic" />
+  <country abbr="CF" text="Central African Republic" />
+  <country abbr="CG" text="Congo" />
+  <country abbr="CH" text="Switzerland" />
+  <country abbr="CI" text="Cote D'Ivoire (Ivory Coast)" />
+  <country abbr="CK" text="Cook Islands" />
+  <country abbr="CL" text="Chile" />
+  <country abbr="CM" text="Cameroon" />
+  <country abbr="CN" text="China" />
+  <country abbr="CO" text="Colombia" />
+  <country abbr="CR" text="Costa Rica" />
+  <country abbr="CS" text="Czechoslovakia (former)" />
+  <country abbr="CU" text="Cuba" />
+  <country abbr="CV" text="Cape Verde" />
+  <country abbr="CX" text="Christmas Island" />
+  <country abbr="CY" text="Cyprus" />
+  <country abbr="CZ" text="Czech Republic" />
+  <country abbr="DE" text="Germany" />
+  <country abbr="DJ" text="Djibouti" />
+  <country abbr="DK" text="Denmark" />
+  <country abbr="DM" text="Dominica" />
+  <country abbr="DO" text="Dominican Republic" />
+  <country abbr="DZ" text="Algeria" />
+  <country abbr="EC" text="Ecuador" />
+  <country abbr="EE" text="Estonia" />
+  <country abbr="EG" text="Egypt" />
+  <country abbr="EH" text="Western Sahara" />
+  <country abbr="ER" text="Eritrea" />
+  <country abbr="ES" text="Spain" />
+  <country abbr="ET" text="Ethiopia" />
+  <country abbr="FI" text="Finland" />
+  <country abbr="FJ" text="Fiji" />
+  <country abbr="FK" text="Falkland Islands (Malvinas)" />
+  <country abbr="FM" text="Micronesia" />
+  <country abbr="FO" text="Faroe Islands" />
+  <country abbr="FR" text="France" />
+  <country abbr="FX" text="France, Metropolitan" />
+  <country abbr="GA" text="Gabon" />
+  <country abbr="GB" text="Great Britain (UK)" />
+  <country abbr="GD" text="Grenada" />
+  <country abbr="GE" text="Georgia" />
+  <country abbr="GF" text="French Guiana" />
+  <country abbr="GH" text="Ghana" />
+  <country abbr="GI" text="Gibraltar" />
+  <country abbr="GL" text="Greenland" />
+  <country abbr="GM" text="Gambia" />
+  <country abbr="GN" text="Guinea" />
+  <country abbr="GP" text="Guadeloupe" />
+  <country abbr="GQ" text="Equatorial Guinea" />
+  <country abbr="GR" text="Greece" />
+  <country abbr="GS" text="S. Georgia and S. Sandwich Isls." />
+  <country abbr="GT" text="Guatemala" />
+  <country abbr="GU" text="Guam" />
+  <country abbr="GW" text="Guinea-Bissau" />
+  <country abbr="GY" text="Guyana" />
+  <country abbr="HK" text="Hong Kong" />
+  <country abbr="HM" text="Heard and McDonald Islands" />
+  <country abbr="HN" text="Honduras" />
+  <country abbr="HR" text="Croatia (Hrvatska)" />
+  <country abbr="HT" text="Haiti" />
+  <country abbr="HU" text="Hungary" />
+  <country abbr="ID" text="Indonesia" />
+  <country abbr="IE" text="Ireland" />
+  <country abbr="IL" text="Israel" />
+  <country abbr="IM" text="Isle of Man" />
+  <country abbr="IN" text="India" />
+  <country abbr="IO" text="British Indian Ocean Territory" />
+  <country abbr="IQ" text="Iraq" />
+  <country abbr="IR" text="Iran" />
+  <country abbr="IS" text="Iceland" />
+  <country abbr="IT" text="Italy" />
+  <country abbr="JE" text="Jersey" />
+  <country abbr="JM" text="Jamaica" />
+  <country abbr="JO" text="Jordan" />
+  <country abbr="JP" text="Japan" />
+  <country abbr="KE" text="Kenya" />
+  <country abbr="KG" text="Kyrgyzstan" />
+  <country abbr="KH" text="Cambodia" />
+  <country abbr="KI" text="Kiribati" />
+  <country abbr="KM" text="Comoros" />
+  <country abbr="KN" text="Saint Kitts and Nevis" />
+  <country abbr="KP" text="Korea (North)" />
+  <country abbr="KR" text="Korea (South)" />
+  <country abbr="KW" text="Kuwait" />
+  <country abbr="KY" text="Cayman Islands" />
+  <country abbr="KZ" text="Kazakhstan" />
+  <country abbr="LA" text="Laos" />
+  <country abbr="LB" text="Lebanon" />
+  <country abbr="LC" text="Saint Lucia" />
+  <country abbr="LI" text="Liechtenstein" />
+  <country abbr="LK" text="Sri Lanka" />
+  <country abbr="LR" text="Liberia" />
+  <country abbr="LS" text="Lesotho" />
+  <country abbr="LT" text="Lithuania" />
+  <country abbr="LU" text="Luxembourg" />
+  <country abbr="LV" text="Latvia" />
+  <country abbr="LY" text="Libya" />
+  <country abbr="MA" text="Morocco" />
+  <country abbr="MC" text="Monaco" />
+  <country abbr="ME" text="Montenegro" />
+  <country abbr="MD" text="Moldova" />
+  <country abbr="MG" text="Madagascar" />
+  <country abbr="MH" text="Marshall Islands" />
+  <country abbr="MK" text="F.Y.R.O.M. (Macedonia)" />
+  <country abbr="ML" text="Mali" />
+  <country abbr="MM" text="Myanmar" />
+  <country abbr="MN" text="Mongolia" />
+  <country abbr="MO" text="Macau" />
+  <country abbr="MP" text="Northern Mariana Islands" />
+  <country abbr="MQ" text="Martinique" />
+  <country abbr="MR" text="Mauritania" />
+  <country abbr="MS" text="Montserrat" />
+  <country abbr="MT" text="Malta" />
+  <country abbr="MU" text="Mauritius" />
+  <country abbr="MV" text="Maldives" />
+  <country abbr="MW" text="Malawi" />
+  <country abbr="MX" text="Mexico" />
+  <country abbr="MY" text="Malaysia" />
+  <country abbr="MZ" text="Mozambique" />
+  <country abbr="NA" text="Namibia" />
+  <country abbr="NC" text="New Caledonia" />
+  <country abbr="NE" text="Niger" />
+  <country abbr="NF" text="Norfolk Island" />
+  <country abbr="NG" text="Nigeria" />
+  <country abbr="NI" text="Nicaragua" />
+  <country abbr="NL" text="Netherlands" />
+  <country abbr="NO" text="Norway" />
+  <country abbr="NP" text="Nepal" />
+  <country abbr="NR" text="Nauru" />
+  <country abbr="NT" text="Neutral Zone" />
+  <country abbr="NU" text="Niue" />
+  <country abbr="NZ" text="New Zealand (Aotearoa)" />
+  <country abbr="OM" text="Oman" />
+  <country abbr="PA" text="Panama" />
+  <country abbr="PE" text="Peru" />
+  <country abbr="PF" text="French Polynesia" />
+  <country abbr="PG" text="Papua New Guinea" />
+  <country abbr="PH" text="Philippines" />
+  <country abbr="PK" text="Pakistan" />
+  <country abbr="PL" text="Poland" />
+  <country abbr="PM" text="St. Pierre and Miquelon" />
+  <country abbr="PN" text="Pitcairn" />
+  <country abbr="PR" text="Puerto Rico" />
+  <country abbr="PS" text="Palestinian Territory, Occupied" />
+  <country abbr="PT" text="Portugal" />
+  <country abbr="PW" text="Palau" />
+  <country abbr="PY" text="Paraguay" />
+  <country abbr="QA" text="Qatar" />
+  <country abbr="RE" text="Reunion" />
+  <country abbr="RO" text="Romania" />
+  <country abbr="RS" text="Serbia" />
+  <country abbr="RU" text="Russian Federation" />
+  <country abbr="RW" text="Rwanda" />
+  <country abbr="SA" text="Saudi Arabia" />
+  <country abbr="SB" text="Solomon Islands" />
+  <country abbr="SC" text="Seychelles" />
+  <country abbr="SD" text="Sudan" />
+  <country abbr="SE" text="Sweden" />
+  <country abbr="SG" text="Singapore" />
+  <country abbr="SH" text="St. Helena" />
+  <country abbr="SI" text="Slovenia" />
+  <country abbr="SJ" text="Svalbard &amp; Jan Mayen Islands" />
+  <country abbr="SK" text="Slovak Republic" />
+  <country abbr="SL" text="Sierra Leone" />
+  <country abbr="SM" text="San Marino" />
+  <country abbr="SN" text="Senegal" />
+  <country abbr="SO" text="Somalia" />
+  <country abbr="SR" text="Suriname" />
+  <country abbr="ST" text="Sao Tome and Principe" />
+  <country abbr="SU" text="USSR (former)" />
+  <country abbr="SV" text="El Salvador" />
+  <country abbr="SY" text="Syria" />
+  <country abbr="SZ" text="Swaziland" />
+  <country abbr="TC" text="Turks and Caicos Islands" />
+  <country abbr="TD" text="Chad" />
+  <country abbr="TF" text="French Southern Territories" />
+  <country abbr="TG" text="Togo" />
+  <country abbr="TH" text="Thailand" />
+  <country abbr="TJ" text="Tajikistan" />
+  <country abbr="TK" text="Tokelau" />
+  <country abbr="TM" text="Turkmenistan" />
+  <country abbr="TN" text="Tunisia" />
+  <country abbr="TO" text="Tonga" />
+  <country abbr="TP" text="East Timor" />
+  <country abbr="TR" text="Turkey" />
+  <country abbr="TT" text="Trinidad and Tobago" />
+  <country abbr="TV" text="Tuvalu" />
+  <country abbr="TW" text="Taiwan" />
+  <country abbr="TZ" text="Tanzania" />
+  <country abbr="UA" text="Ukraine" />
+  <country abbr="UG" text="Uganda" />
+  <country abbr="UK" text="United Kingdom" />
+  <country abbr="UM" text="US Minor Outlying Islands" />-->
+  <country abbr="US" text="United States" />
+  <!--<country abbr="UY" text="Uruguay" />
+  <country abbr="UZ" text="Uzbekistan" />
+  <country abbr="VA" text="Vatican City State (Holy See)" />
+  <country abbr="VC" text="Saint Vincent &amp; the Grenadines" />
+  <country abbr="VE" text="Venezuela" />
+  <country abbr="VG" text="British Virgin Islands" />
+  <country abbr="VI" text="Virgin Islands (U.S.)" />
+  <country abbr="VN" text="Viet Nam" />
+  <country abbr="VU" text="Vanuatu" />
+  <country abbr="WF" text="Wallis and Futuna Islands" />
+  <country abbr="WS" text="Samoa" />
+  <country abbr="YE" text="Yemen" />
+  <country abbr="YT" text="Mayotte" />
+  <country abbr="YU" text="Serbia and Montenegro (Yugoslavia)" />
+  <country abbr="ZA" text="South Africa" />
+  <country abbr="ZM" text="Zambia" />
+  <country abbr="ZR" text="Zair" />
+  <country abbr="ZW" text="Zimbabwe" />-->
+</countries>

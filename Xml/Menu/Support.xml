@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+	<Group Flow="Horizontal">
+		<Item Text="Tickets"  >
+			<Group Flow="Vertical" >
+				<Item Text="Alerts" href="~/_pages/Tickets.aspx" />
+				<Item Text="Open Tickets" href="~/_pages/Tickets.aspx?1=2" target="_new" />
+			</Group>
+		</Item>
+		<Item Text="Companies">
+			<Group Flow="Vertical" >
+				<Item Text="Create New Company" href="~/_pages/admin/companies/NewCompany.aspx" />
+				<Item Visible="false"  Text="Create New Company " href="~/_pages/admin/companies/_CreateCompany.aspx" />
+				<Item IsSeparator="True" />
+				<Item Text="Dealers" href="~/_pages/admin/companies/Companies.aspx?type=Dealer" >
+
+					<Item Text="Dealer ID Mappings " href="~/_pages/admin/companies/_DealerIDMappings.aspx" />
+					<Item Text="Dealer Import/Export Mappings  " target="_new"  href="~/_pages/admin/companies/DealerMapTotal.aspx" />
+					<Item Text="Dealer Search " href="~/_pages/admin/companies/DealerSearch.aspx" />
+				</Item>
+				<Item Text="Suppliers" href="~/_pages/admin/companies/Companies.aspx?type=Supplier" />
+				<Item Text="Customers" href="~/_pages/admin/companies/Companies.aspx?type=Customer" />
+				<Item Text="Recipients" href="~/_pages/admin/companies/Companies.aspx?type=Recipient" />
+				<Item Text="Data Providers" href="~/_pages/admin/companies/Companies.aspx?type=DataProvider" />
+			</Group>
+		</Item>
+		<Item Text="Orders">
+			<Group Flow="Vertical">
+				<Item Text="Current Orders" href="~/_pages/Orders/OrderList.aspx"/>
+				<Item Text="New Order" href="~/_pages/Orders/Orders.aspx"/>
+			</Group>
+		</Item>
+		<Item Text="Tools">
+			<Group Flow="Vertical">
+				<Item Visible="false" Text="Data Viewer" href="~/_pages/DataViewer/Manager.aspx" />
+				<Item Text="Data Viewer" href="~/_pages/DataViewer/_Manager.aspx" />
+				<Item Text="Imports" href="~/_pages/admin/Files/ImportFileList.aspx" >
+					<Item Text="View List"  href="~/_pages/admin/Files/ImportFileList.aspx" />
+				</Item>
+				<Item Text="Exports"  href="~/_pages/Export/List.aspx" />
+				<Item Text="Formats" >
+					<Item Text="Format Map Builder" href="~/_pages/admin/format/MapBuilder.aspx" />
+					<Item Text="Map List" href="~/_pages/admin/format/MapList.aspx" />
+				</Item>
+				
+			</Group>
+
+		</Item>
+		<Item Text="Reports" >
+			<Group Flow="Vertical" >
+				<Item Text="Dealer Reports">
+					<Item Text="Import Dealer File Counts" href="~/_pages/Reports/DealerFileCounts.aspx" />
+					<Item Text="Duplicate VINs by Dealer" href="~/_pages/Reports/Report.aspx?rpt=1" />
+					<Item Text="Dealer Spec Export Summary" href="~/_pages/Reports/Report.aspx?rpt=3" />
+					<Item Text="SelectQu Dealer Mapping" href="~/_pages/Reports/Report.aspx?rpt=5" />
+					<Item Text="Dealer 24 hour Inventory" href="~/_pages/Reports/Report.aspx?rpt=6" ></Item>
+					<Item Text="Inventory Import/Export Issues" href="~/_pages/Reports/Report.aspx?rpt=8" ></Item>
+					<Item Text="Export Dealers List" href="~/_pages/Reports/Report.aspx?rpt=9" ></Item>
+					<Item Text="Find Bad VINs " href="~/_pages/Reports/Report.aspx?rpt=10" ></Item>
+				</Item>
+				<Item Text="Application Performance">
+					<Item Text="Average App Speed" href="~/_pages/Reports/Report.aspx?rpt=4" />
+					<Item Text="Export Speed" href="~/_pages/Reports/Report.aspx?rpt=7" ></Item>
+				</Item>
+				<Item Text="Export File Summary" href="~/_pages/Reports/Report.aspx?rpt=2" />
+
+			</Group>
+		</Item>
+		
+		<Item Text="Logs">
+			<Group Flow="Vertical">
+				<Item Text="FTP Logs" href="~/_FTPLogs" target="_blank" />
+			</Group>
+		</Item>
+		<Item Text="Help" href="~/_pages/Help/Help.aspx" target="_blank"></Item>
+
+	</Group>
+</Menu>

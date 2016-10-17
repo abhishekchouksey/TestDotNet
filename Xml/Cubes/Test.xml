@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cubes>
+  <items>
+    <item text="Quick Starts" value="Quick Starts" >
+      <subitem image="~/Images/Plus.gif" text="Testing1" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing2" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing3" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing4" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing5" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing6" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text="Testing7" valie="Marketing Message"></subitem>
+    </item>
+    <item text="Support" value="Support" >
+      <subitem image="~/Images/Plus.gif" text=" Tickets1" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets2" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets3" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets4" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets5" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets6" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets7" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets8" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets9" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets10" valie="Latest Tickets"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Tickets11" valie="Latest Tickets"></subitem>
+    </item>
+    <item text="Misc." value="Misc." >
+      <subitem image="~/Images/Plus.gif" text=" Message1" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message2" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message3" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message4" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message5" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message6" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message7" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message8" valie="Marketing Message"></subitem>
+      <subitem image="~/Images/Plus.gif" text=" Message9" valie="Marketing Message"></subitem>
+    </item>
+  </items>
+</cubes>

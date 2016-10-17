@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cubes>
+	<items>
+		<item text="Quick Stats"  value="Stats">
+			<subitem image="~/Images/Plus.gif" text="Summary "  value="Customerstats" />
+			<subitem image="~/Images/Plus.gif" text="Dealers"  value="Dealers" />
+			<subitem image="~/Images/Plus.gif" text="In Progress Orders"  value="Current Orders" />
+			<subitem image="~/Images/Plus.gif" text="VIN decoding"  value="ucInventory" />
+			<subitem image="~/Images/Plus.gif" text="Export Queue History"  value="ucQueueHistoryExport" />
+			<subitem image="~/Images/Plus.gif" text="Import Errors"  value="ucImportErrors" />
+		</item>
+		<item text="Support" value="Support" >
+			<subitem image="~/Images/Plus.gif" text="My Tickets" value="Tickets"></subitem>
+		</item>
+		
+	</items>
+</cubes>

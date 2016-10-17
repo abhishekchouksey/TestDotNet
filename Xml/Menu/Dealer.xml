@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+  <Group Flow="Horizontal">
+    <Item Text="Tickets"  >
+      <Group Flow="Vertical" >
+        <Item Text="Open Tickets" href="~/_pages/Tickets.aspx" />
+      </Group>
+    </Item>
+  </Group>
+</Menu>
