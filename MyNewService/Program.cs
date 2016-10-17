@@ -14,7 +14,7 @@ namespace MyNewService
         static void Main()
         {
             Console.WriteLine("NEw setup project _1`");
-            Console.Write("Please enter...")
+            Console.Write("Please enter...");
         }
     }
 }
