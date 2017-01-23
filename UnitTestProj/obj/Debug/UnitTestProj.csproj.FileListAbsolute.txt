@@ -1,0 +1,11 @@
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\UnitTestProj.dll
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\UnitTestProj.pdb
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\Castle.Core.dll
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\Moq.dll
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\MyNewService.exe
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\MyNewService.pdb
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\Castle.Core.xml
+C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.csprojResolveAssemblyReference.cache
+C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.dll
+C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.pdb
