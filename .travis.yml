@@ -2,4 +2,4 @@ language: csharp
 
 script:
   - xbuild /p:Configuration=Release ./MyNewService/MyNewService.csproj
-  - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./UnitTestProj/bin/Debug/UnitTestProj.dll
+  - nunit-console ./UnitTestProj/bin/Debug/UnitTestProj.dll
