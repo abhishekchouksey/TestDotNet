@@ -9,3 +9,5 @@ C:\git\github\TestDotNet\UnitTestProj\bin\Debug\Castle.Core.xml
 C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.csprojResolveAssemblyReference.cache
 C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.dll
 C:\git\github\TestDotNet\UnitTestProj\obj\Debug\UnitTestProj.pdb
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\nunit.framework.dll
+C:\git\github\TestDotNet\UnitTestProj\bin\Debug\nunit.framework.xml
