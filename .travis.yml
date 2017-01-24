@@ -12,4 +12,5 @@ install:
   - nuget install Moq
 script:
   - xbuild /p:Configuration=Release ./MyNewService/MyNewService.csproj
-  - nunit-console ./UnitTestProj/bin/Debug/UnitTestProj.dll
+  - xbuild /p:Configuration=Release ./UnitTestProj/UnitTestProj.csproj
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./UnitTestProj/bin/release/UnitTestProj.dll
