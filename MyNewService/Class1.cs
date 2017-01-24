@@ -8,4 +8,7 @@ namespace MyNewService
     class Class1
     {
     }
+    
+    
 }
+
