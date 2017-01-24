@@ -1,27 +1,26 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using MyNewService;
+using NUnit.Framework;
 
 namespace UnitTestProj
 {
-    [TestClass]
+     [TestFixture]
     public class CalculatorTests
     {
         private MockRepository mockRepository;
 
-        [TestInitialize]
+        
         public void TestInitialize()
         {
             this.mockRepository = new MockRepository(MockBehavior.Strict);
         }
 
-        [TestCleanup]
-        public void TestCleanup()
+      public void TestCleanup()
         {
             this.mockRepository.VerifyAll();
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             
@@ -36,7 +35,7 @@ namespace UnitTestProj
             return new Calculator();
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod2()
         {
             Calculator calculator = this.CreateCalculator();
